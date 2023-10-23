@@ -6,8 +6,6 @@ dotenv.config();
 
 connectToDatabase();
 
-
-
 //require("./modules/path.js");
 //require("./modules/fs.js");
 //require("./modules/http.js");
